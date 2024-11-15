@@ -13,3 +13,5 @@ processing my youtube videos.
 
 with this software i not only try to easy my problem but also hope to help the few that wish to do
 the same processing on a video but lacks the technical skills to do so.
+
+[Download FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases)
